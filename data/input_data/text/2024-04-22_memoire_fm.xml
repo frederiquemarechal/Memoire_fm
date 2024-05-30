@@ -264,6 +264,209 @@
                <place xml:id="Lei">
                   <placeName>Leipzig</placeName>
                </place>
+                   <place xml:id="Syr">
+                  <placeName>Syrie</placeName>
+               </place>
+               <place xml:id="Athè">
+                  <placeName>Athènes</placeName>
+               </place>
+               <place xml:id="Att">
+                  <placeName>Attique</placeName>
+               </place>
+               <place xml:id="Aby">
+                  <placeName>Abydos</placeName>
+               </place>
+               <place xml:id="Myt">
+                  <placeName>Mytilène</placeName>
+                  <place xml:id="Amb">
+                     <placeName>Ambracie</placeName>
+                  </place>
+                  <place xml:id="Mes">
+                     <placeName>Messine</placeName>
+                  </place>
+                  <place xml:id="Eph">
+                     <placeName>Éphèse</placeName>
+                  </place>
+                  <place xml:id="Cha">
+                     <placeName>Chalcédoine</placeName>
+                  </place>
+                  <place xml:id="Les">
+                     <placeName>Lesbos</placeName>
+                  </place>
+                  <place xml:id="Ias">
+                     <placeName>Iasos</placeName>
+                  </place>
+                  <place xml:id="Mac">
+                     <placeName>Macédoine</placeName>
+                  </place>
+                  <place xml:id="Hel">
+                     <placeName>Hellespont</placeName>
+                  </place>
+                  <place xml:id="Lip">
+                     <placeName>Lipari</placeName>
+                  </place>
+                  <place xml:id="Ere">
+                     <placeName>Eresos</placeName>
+                  </place>
+                  <place xml:id="The">
+                     <placeName>Thèbes</placeName>
+                  </place>
+                  <place xml:id="Tha">
+                     <placeName>Thasos</placeName>
+                  </place>
+                  <place xml:id="Thes">
+                     <placeName>Thessalie</placeName>
+                  </place>
+                  <place xml:id="Ery">
+                     <placeName>Erythres</placeName>
+                  </place>
+                  <place xml:id="Sic">
+                     <placeName>Sicile</placeName>
+                  </place>
+                  <place xml:id="Mer">
+                     <placeName>Mer Noire</placeName>
+                  </place>
+                  <place xml:id="Byz">
+                     <placeName>Byzance</placeName>
+                  </place>
+                  <place xml:id="Bos">
+                     <placeName>Bosphore</placeName>
+                  </place>
+                  <place xml:id="Lac">
+                     <placeName>Lac Méotide</placeName>
+                  </place>
+                  <place xml:id="Pha">
+                     <placeName>Phalère</placeName>
+                  </place>
+                  <place xml:id="Rho">
+                     <placeName>Rhodes</placeName>
+                  </place>
+                  <place xml:id="Chal">
+                     <placeName>Chalcis</placeName>
+                  </place>
+                  <place xml:id="Sicy">
+                     <placeName>Sicyone</placeName>
+                  </place>
+                  <place xml:id="Oly">
+                     <placeName>Olynthe</placeName>
+                  </place>
+                  <place xml:id="Még">
+                     <placeName>Mégare</placeName>
+                  </place>
+                  <place xml:id="Dét">
+                     <placeName>Détroit de Rhegium</placeName>
+                  </place>
+                  <place xml:id="Cop">
+                     <placeName>Copaïs</placeName>
+                  </place>
+                  <place xml:id="Str">
+                     <placeName>Strymon</placeName>
+                  </place>
+                  <place xml:id="Crè">
+                     <placeName>Crète</placeName>
+                  </place>
+                  <place xml:id="Dél">
+                     <placeName>Délos</placeName>
+                  </place>
+                  <place xml:id="Tén">
+                     <placeName>Ténos</placeName>
+                  </place>
+                  <place xml:id="Car">
+                     <placeName>Caryste</placeName>
+                  </place>
+                  <place xml:id="Sin">
+                     <placeName>Sinope</placeName>
+                  </place>
+                  <place xml:id="Abd">
+                     <placeName>Abdère</placeName>
+                  </place>
+                  <place xml:id="Scy">
+                     <placeName>Détroit de Scylla</placeName>
+                  </place>
+                  <place xml:id="Pél">
+                     <placeName>Pélore</placeName>
+                  </place>
+                  <place xml:id="Ant">
+                     <placeName>Anthédon</placeName>
+                  </place>
+                  <place xml:id="Cari">
+                     <placeName>Carie</placeName>
+                  </place>
+                  <place xml:id="Cor">
+                     <placeName>Corfou</placeName>
+                  </place>
+                  <place xml:id="Mil">
+                     <placeName>Milet</placeName>
+                  </place>
+                  <place xml:id="Tic">
+                     <placeName>Tichiousse</placeName>
+                  </place>
+                  <place xml:id="Mar">
+                     <placeName>Maronie</placeName>
+                  </place>
+                  <place xml:id="Téo">
+                     <placeName>Téos</placeName>
+                  </place>
+                  <place xml:id="Dion">
+                     <placeName>Dion</placeName>
+                  </place>
+                  <place xml:id="Pié">
+                     <placeName>Piérie</placeName>
+                  </place>
+                  <place xml:id="Bap">
+                     <placeName>Baphyre</placeName>
+                  </place>
+                  <place xml:id="Ain">
+                     <placeName>Ainos</placeName>
+                  </place>
+                  <place xml:id="Noi">
+                     <placeName>Mer Noire</placeName>
+                  </place>
+                  <place xml:id="Eré">
+                     <placeName>Erétrie</placeName>
+                  </place>
+                  <place xml:id="Pel">
+                     <placeName>Pella</placeName>
+                  </place>
+                  <place xml:id="Sél">
+                     <placeName>Sélinonte</placeName>
+                  </place>
+                  <place xml:id="Sam">
+                     <placeName>Samos</placeName>
+                  </place>
+                  <place xml:id="Cef">
+                     <placeName>Cefalu</placeName>
+                  </place>
+                  <place xml:id="Gés">
+                     <placeName>Géson</placeName>
+                  </place>
+                  <place xml:id="Cal">
+                     <placeName>Calydon</placeName>
+                  </place>
+                  <place xml:id="Bol">
+                     <placeName>Bolbé (lac)</placeName>
+                  </place>
+                  <place xml:id="Phé">
+                     <placeName>Phénicie</placeName>
+                  </place>
+                  <place xml:id="Bib">
+                     <placeName>Bibline</placeName>
+                  </place>
+                  <place xml:id="Syra">
+                     <placeName>Syracuse</placeName>
+                  </place>
+                  <place xml:id="Gra">
+                     <placeName>Grande Grèce</placeName>
+                  </place>
+                  <place xml:id="Lyd">
+                     <placeName>Lydie</placeName>
+                  </place>
+                  <place xml:id="Béo">
+                     <placeName>Béotie</placeName>
+                  </place>
+                  <place xml:id="Ass">
+                     <placeName>Assyrie</placeName>
+                  </place>
             </listPlace>
          </sourceDesc>
 
