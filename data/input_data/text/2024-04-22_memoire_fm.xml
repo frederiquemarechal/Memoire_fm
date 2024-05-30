@@ -532,177 +532,208 @@
                <head><hi rend="italic">Introduction</hi><note>Je remercie vivement Aurélien Berra
                      pour les pages de sa thèse qui m’ont aidée à enrichir mon introduction.
                   </note></head>
-               <p>Seuls subsistent aujourd’hui soixante-deux fragments, soit environ 334
-                     vers<note>Soit environ 28% du poème si l’on considère qu’un poème écrit sur un
-                     papyrus pouvait contenir 1200 vers (OLSON et SENS 2000).</note>, du poète
-                     <persName ref="#Arc">Archestrate</persName> de <placeName ref="#Gé"
-                     >Géla</placeName> qui vécut au IVème siècle de notre ère. Le poème porte
-                  principalement sur l’art de trouver le bon poisson au bon endroit et à la bonne
-                  saison ainsi que sur la meilleure façon de l'accommoder. Aucun papyrus, ni même la
-                     <hi rend="italic">Souda</hi> ne font mention d’ <persName ref="#Arc"
-                     >Archestrate</persName> de <placeName ref="#Gé">Géla</placeName>. C’est grâce à
-                     <persName ref="#Ath">Athénée</persName>, né en l’an 170 de notre ère à
-                     <placeName ref="#Nau">Naucratis</placeName>, cité grecque égyptienne, que nous
-                  devons la survivance du poème d’<persName ref="#Arc">Archestrate</persName> qui
-                  nous a été transmis par <hi rend="italic">Les Deipnosophistes</hi> ou <hi
-                     rend="italic">Le Banquet des savants</hi><note>On attribue aussi à Athénée un
-                     traité historique Sur les rois de Syrie et une monographie sur Les Poissons
-                     d’Archippe - deux ouvrages disparus. </note>. Venu à <placeName ref="#Ro"
-                     >Rome</placeName>, <persName ref="#Ath">Athénée</persName> rencontra vers
-                  180-195 le <rs ref="#P. Liv">riche </rs><persName ref="#P. Liv">P. Livius
-                     Larensis</persName>, <rs ref="#P. Liv">haut fonctionnaire</rs>,<rs
-                     ref="#P. Liv">bibliophile</rs> et <rs ref="#P. Liv">philhellène</rs>. Nous ne
-                  savons pas vraiment quels liens unirent <persName ref="#Ath">Athénée</persName> et
-                     <persName ref="#P. Liv">P. Livius Larensis</persName> mais il semblerait
-                     qu’<persName ref="#Ath">Athénée</persName> ait été <rs ref="#Ath">chargé
-                     d’enrichir de pièces rares la bibliothèque personnelle</rs> de <rs
-                     ref="#P. Liv">ce dernier</rs>.</p>
-               <p>Dans <hi rend="italic">Les Deipnosophistes</hi>, <persName ref="#Ath"
-                     >Athénée</persName> rapporte à son ami <persName ref="#Tim"
-                     >Timocrate</persName> les propos de table tenus par une vingtaine d’érudits
-                  lors d’un banquet donné par <persName ref="#P.Liv">P. Livius Larensis</persName> à
-                     <placeName ref="#Ro">Rome</placeName> au début du IIIème siècle. Les convives
-                  se livrent à des conversations sur toutes sortes de sujets : les différentes
-                  façons de banqueter, les banquets célèbres, les aliments, les poissons, les
-                  boissons, la gastronomie et ses grands hommes mais aussi sur la politique, la
-                  philosophie, la médecine, l’amour, la musique… Les invités appuient leurs propos
-                  sur des extraits d’ouvrages de toutes sortes cités de mémoire : environ mille
-                  extraits d’oeuvres citées d’environ sept cents auteurs. Sans <hi rend="italic">Les
-                     Deipnosophistes</hi>, <persName ref="#Arc">Archestrate</persName> nous serait
-                  resté inconnu.</p>
+                 <p>Seuls subsistent aujourd’hui soixante-deux fragments, soit environ 334 vers<note>Soit
+               environ 28% du poème si l’on considère qu’un poème écrit sur un papyrus pouvait
+               contenir 1200 vers (OLSON et SENS 2000).</note>, du poète <persName ref="#Arc"
+               >Archestrate</persName> de <placeName ref="#Gé">Géla</placeName> qui vécut au IVème
+            siècle de notre ère. Le poème porte principalement sur l’art de trouver le bon poisson
+            au bon endroit et à la bonne saison ainsi que sur la meilleure façon de l'accommoder.
+            Aucun papyrus, ni même la <hi rend="italic">Souda</hi> ne font mention d’ <persName
+               ref="#Arc">Archestrate</persName> de <placeName ref="#Gé">Géla</placeName>. C’est
+            grâce à <persName ref="#Ath">Athénée</persName>, né en l’an 170 de notre ère à
+               <placeName ref="#Nau">Naucratis</placeName>, cité grecque égyptienne, que nous devons
+            la survivance du poème d’<persName ref="#Arc">Archestrate</persName> qui nous a été
+            transmis par <hi rend="italic">Les Deipnosophistes</hi> ou <hi rend="italic">Le Banquet
+               des savants</hi><note>On attribue aussi à Athénée un traité historique Sur les rois
+               de Syrie et une monographie sur Les Poissons d’Archippe - deux ouvrages disparus.
+            </note>. Venu à <placeName ref="#Ro">Rome</placeName>, <persName ref="#Ath"
+               >Athénée</persName> rencontra vers 180-195 le <rs ref="#P. Liv">riche </rs><persName
+               ref="#P. Liv">P. Livius Larensis</persName>, <rs ref="#P. Liv">haut
+               fonctionnaire</rs>,<rs ref="#P. Liv">bibliophile</rs> et <rs ref="#P. Liv"
+               >philhellène</rs>. Nous ne savons pas vraiment quels liens unirent <persName
+               ref="#Ath">Athénée</persName> et <persName ref="#P. Liv">P. Livius
+               Larensis</persName> mais il semblerait qu’<persName ref="#Ath">Athénée</persName> ait
+            été <rs ref="#Ath">chargé d’enrichir de pièces rares la bibliothèque personnelle</rs> de
+               <rs ref="#P. Liv">ce dernier</rs>.</p>
+         <p>Dans <hi rend="italic">Les Deipnosophistes</hi>, <persName ref="#Ath">Athénée</persName>
+            rapporte à son ami <persName ref="#Tim">Timocrate</persName> les propos de table tenus
+            par une vingtaine d’érudits lors d’un banquet donné par <persName ref="#P.Liv">P. Livius
+               Larensis</persName> à <placeName ref="#Ro">Rome</placeName> au début du IIIème
+            siècle. Les convives se livrent à des conversations sur toutes sortes de sujets : les
+            différentes façons de banqueter, les banquets célèbres, les aliments, les poissons, les
+            boissons, la gastronomie et ses grands hommes mais aussi sur la politique, la
+            philosophie, la médecine, l’amour, la musique… Les invités appuient leurs propos sur des
+            extraits d’ouvrages de toutes sortes cités de mémoire : environ mille extraits d’oeuvres
+            citées d’environ sept cents auteurs. Sans <hi rend="italic">Les Deipnosophistes</hi>,
+               <persName ref="#Arc">Archestrate</persName> nous serait resté inconnu.</p>
 
-               <p><hi rend="italic">Les Deipnosophistes</hi> ont été composés vers l’an 200 de notre
-                  ère et nous ont été transmis par trois manuscrits :</p>
+         <p><hi rend="italic">Les Deipnosophistes</hi> ont été composés vers l’an 200 de notre ère
+            et nous ont été transmis par trois manuscrits :</p>
 
-               <p>Le manuscrit A, gr. Z. 447 (coll. 0820), se trouve à la Bibliothèque Nationale
-                  Marciana de <placeName ref="#Ven">Venise</placeName>. Il nous est parvenu par
-                  l’intermédiaire d’un manuscrit byzantin copié par <persName ref="#Jea">Jean Le
-                     Calligraphe</persName> à <placeName ref="#Co">Constantinople</placeName> au
-                  Xème siècle. Il a été apporté en <placeName ref="#It">Italie</placeName> en 1423
-                  par l’<rs ref="#Gio">humaniste sicilien</rs><persName ref="#Gio">Giovanni
-                     Aurispa</persName>, qui eut une influence considérable dans la redécouverte des
-                  Anciens. Puis, il a été acheté par le <persName ref="#Bess">Cardinal
-                     Bessarion</persName> vers le milieu du XVème siècle qui le légua avec le reste
-                  de sa bibliothèque à la République de <placeName ref="#Ven">Venise</placeName>. Il
-                  s’agit d’un <hi rend="italic">codex vetustissimus</hi> rédigé en minuscule. Il
-                  comporte 372 folios de parchemin mesurant 395*261 mm. Le texte est réparti sur
-                  deux colonnes, chaque colonne comprenant un nombre moyen de 43 lignes. Les lettres
-                  sont formées lisiblement et sans abréviations. Toutes les citations sont précédées
-                  d’une diplé (>) dans la marge gauche et elles sont écrites comme si elles
-                  relevaient de la prose. Mais ce manuscrit – qui est la seule version non abrégée
-                  des <hi rend="italic">Deipnosophistes</hi> – n’est pas complet : il manque en
-                  effet les 50 premiers folios de I à III 73 f correspondant aux livres I, II et au
-                  début du livre III. Il manque aussi quelques folios après les folios 214 et 239.
-                  Enfin, les folios 370 à 372 ont été détériorés en raison de mauvaises conditions
-                  de conservation, ce qui les rend difficiles à lire. On se sert des manuscrits C et
-                  E pour combler ces lacunes.</p>
+         <p>Le manuscrit A, gr. Z. 447 (coll. 0820), se trouve à la Bibliothèque Nationale Marciana
+            de <placeName ref="#Ven">Venise</placeName>. Il nous est parvenu par l’intermédiaire
+            d’un manuscrit byzantin copié par <persName ref="#Jea">Jean Le Calligraphe</persName> à
+               <placeName ref="#Co">Constantinople</placeName> au Xème siècle. Il a été apporté en
+               <placeName ref="#It">Italie</placeName> en 1423 par l’<rs ref="#Gio">humaniste
+               sicilien</rs><persName ref="#Gio">Giovanni Aurispa</persName>, qui eut une influence
+            considérable dans la redécouverte des Anciens. Puis, il a été acheté par le <persName
+               ref="#Bess">Cardinal Bessarion</persName> vers le milieu du XVème siècle qui le légua
+            avec le reste de sa bibliothèque à la République de <placeName ref="#Ven"
+               >Venise</placeName>. Il s’agit d’un <hi rend="italic">codex vetustissimus</hi> rédigé
+            en minuscule. Il comporte 372 folios de parchemin mesurant 395*261 mm. Le texte est
+            réparti sur deux colonnes, chaque colonne comprenant un nombre moyen de 43 lignes. Les
+            lettres sont formées lisiblement et sans abréviations. Toutes les citations sont
+            précédées d’une diplé (&gt;) dans la marge gauche et elles sont écrites comme si elles
+            relevaient de la prose. Mais ce manuscrit – qui est la seule version non abrégée des <hi
+               rend="italic">Deipnosophistes</hi> – n’est pas complet : il manque en effet les 50
+            premiers folios de I à III 73 f correspondant aux livres I, II et au début du livre III.
+            Il manque aussi quelques folios après les folios 214 et 239. Enfin, les folios 370 à 372
+            ont été détériorés en raison de mauvaises conditions de conservation, ce qui les rend
+            difficiles à lire. On se sert des manuscrits C et E pour combler ces lacunes.</p>
 
 
-               <p>Les manuscrits C et E – version abrégée des <hi rend="italic">Deipnosophistes</hi>
-                  – s’inscrivent dans la tradition de l’Épitomé, travail d’un érudit du XIIème
-                  siècle qui entreprit de résumer l’ouvrage d’<persName ref="#Ath"
-                     >Athénée</persName> en s’appuyant sur un manuscrit non mutilé. Ils sont les
-                  seuls témoins de I a à 73 f. Leur grande proximité s’explique par un modèle commun
-                  antérieur, un manuscrit perdu du Vatican.</p>
+         <p>Les manuscrits C et E – version abrégée des <hi rend="italic">Deipnosophistes</hi> –
+            s’inscrivent dans la tradition de l’Épitomé, travail d’un érudit du XIIème siècle qui
+            entreprit de résumer l’ouvrage d’<persName ref="#Ath">Athénée</persName> en s’appuyant
+            sur un manuscrit non mutilé. Ils sont les seuls témoins de I a à 73 f. Leur grande
+            proximité s’explique par un modèle commun antérieur, un manuscrit perdu du Vatican. </p>
 
-               <p>Le manuscrit C, supplément grec 841, se trouve à la Bibliothèque Nationale de
-                  France. Il a été copié par <persName ref="#Dem">Démétrios Damilas</persName> entre
-                  1476 et 1506. Il est d’un format moyen et comporte 203 folios. Il est rédigé en
-                  écriture humaniste. C’est un manuscrit très lisible qui contient quelques
-                  abréviations non usuelles.</p>
+         <p>Le manuscrit C, supplément grec 841, se trouve à la Bibliothèque Nationale de France. Il
+            a été copié par <persName ref="#Dem">Démétrios Damilas</persName> entre 1476 et 1506. Il
+            est d’un format moyen et comporte 203 folios. Il est rédigé en écriture humaniste. C’est
+            un manuscrit très lisible qui contient quelques abréviations non usuelles. </p>
 
-               <p>Le manuscrit E, Plutei LX. 2, se trouve quant à lui à la Bibliothèque Laurentienne
-                  de Florence. Il a été copié par <persName ref="#Jac">Jacob Questenberg</persName>
-                  vers 1490 à Rome et mesure 190*280 mm. Il est lui aussi rédigé en écriture
-                  humaniste. Le manuscrit E comporte plus de fautes que le manuscrit C et les mots
-                  sont souvent abrégés. Ces deux manuscrits sont très fidèles au <hi rend="italic"
-                     >Marcianus</hi> et leur intérêt majeur est de pouvoir suppléer aux folios
-                  manquants de ce dernier.</p>
-               <p>Par ailleurs, les philologues ne sont pas d’accord entre eux sur les relations qui
-                  lient ces trois manuscrits.</p>
-               <p>1. Un groupe de spécialistes (<persName ref="#Cob">C. G. Cobet</persName>,
-                     <persName ref="#Din">K. W. Dindorf</persName>, <persName ref="#Maa">P.
-                     Maas</persName>, <persName ref="#Erb">H. Erbse</persName> et <persName
-                     ref="#Hem">B. Hemmerdinger</persName>) affirme que l’Épitomé – par ailleurs,
-                  difficile à dater – dérive du <hi rend="italic">Marcianus</hi> lorsqu’il était
-                  entier. Nous savons qu’<persName ref="#Eus">Eustathe de Thessalonique</persName>
-                  utilisait l’Épitomé lorsqu’il enseignait à l’École patriarcale <placeName
-                     ref="#Co">Constantinople</placeName> soit avant 1175 et l’utilise pour la
-                  rédaction de ses commentaires sur L’<hi rend="italic">Iliade</hi> et L’<hi
-                     rend="italic">Odyssée</hi> .</p>
-               <p>2. Un deuxième groupe est convaincu de l’indépendance de l’Épitomé par rapport au
-                  Manuscrit A dont <persName ref="#Kai">G. Kaibel</persName>, <persName ref="#Pep"
-                     >S. Peppink</persName>et <persName ref="#Des">A.-M. Desrousseaux</persName></p>
-               <p>Dès la Renaissance, plusieurs éditions et traductions des <hi rend="italic"
-                     >Deipnosophistes</hi> ont vu le jour :</p>
-               <p>1. L’édition <hi rend="italic">princeps</hi> date de 1514. Elle est établie à
-                     <placeName ref="#Ven">Venise</placeName> par le crétois <persName ref="#Mus"
-                     >Marcus Musurus</persName> qui travaillait pour l’imprimeur <persName
-                     ref="#Muc">Alde Muce</persName>. Ce manuscrit qui se fondait sur le <hi
-                     rend="italic">Marcianus</hi> disparaît dans les ateliers à la fin de
-                  l’impression, ce qui était chose courante à cette époque.</p>
-               <p>2. A Lyon, <persName ref="#Dal">Jacques Daléchamp</persName> fournit une
-                  traduction en latin des<hi rend="italic">Deipnosophistes</hi> en 1583 sans
-                  accompagnement du texte.</p>
-               <p>3. <persName ref="#Cas">Isaac Casaubon</persName> choisit la traduction de
-                     <persName ref="#Dal">Daléchamp</persName> pour l’intégrer à son édition de
-                  1598. A noter que la pagination de <persName ref="#Cas">Casaubon</persName> avec
-                  ses divisions de dix lignes en dix lignes est fréquemment utilisée depuis le
-                  XIXème siècle.</p>
-               <p>4. Entre 1789 et 1791, l’œuvre est pour la première fois traduite en français par
-                     <persName ref="#Lef">Lefebvre de Villebrune</persName>.</p>
+         <p> Le manuscrit E, Plutei LX. 2, se trouve quant à lui à la Bibliothèque Laurentienne de
+            Florence. Il a été copié par <persName ref="#Jac">Jacob Questenberg</persName> vers 1490
+            à Rome et mesure 190*280 mm. Il est lui aussi rédigé en écriture humaniste. Le manuscrit
+            E comporte plus de fautes que le manuscrit C et les mots sont souvent abrégés. Ces deux
+            manuscrits sont très fidèles au <hi rend="italic">Marcianus</hi> et leur intérêt majeur
+            est de pouvoir suppléer aux folios manquants de ce dernier.</p>
+         <p> Par ailleurs, les philologues ne sont pas d’accord entre eux sur les relations qui
+            lient ces trois manuscrits. </p>
+         <p>1. Un groupe de spécialistes (<persName ref="#Cob">C. G. Cobet</persName>, <persName
+               ref="#Din">K. W. Dindorf</persName>, <persName ref="#Maa">P. Maas</persName>,
+               <persName ref="#Erb">H. Erbse</persName> et <persName ref="#Hem">B.
+               Hemmerdinger</persName>) affirme que l’Épitomé – par ailleurs, difficile à dater –
+            dérive du <hi rend="italic">Marcianus</hi> lorsqu’il était entier. Nous savons
+               qu’<persName ref="#Eus">Eustathe de Thessalonique</persName> utilisait l’Épitomé
+            lorsqu’il enseignait à l’École patriarcale <placeName ref="#Co"
+               >Constantinople</placeName> soit avant 1175 et l’utilise pour la rédaction de ses
+            commentaires sur L’<hi rend="italic">Iliade</hi> et L’<hi rend="italic">Odyssée</hi>
+            .</p>
 
-               <p>5. Au XIXème siècle, paraissent successivement trois nouvelles éditions du texte,
-                  celle du strasbourgeois <persName ref="#Sch">Jean Schweighäuser</persName>
-                  (1801-1807), de <persName ref="#Din">Wilhelm Dindorf</persName> (1827) et
-                     d’<persName ref="#Mei">August Meineke</persName> (1858-1859).</p>
-               <p>6. Puis l’édition de <persName ref="#Kai">Georg Kaibel</persName> (1887-1890)
-                  devient l’édition de référence.</p>
-               <p>7. L’édition <persName ref="#Gul">Gulick</persName> (1927-1941) propose une
-                  nouvelle traduction en anglais.</p>
-               <p>8. <persName ref="#Des">Alexandre-Marie Desrousseaux</persName> avec la
-                  collaboration de <persName ref="#Ast">Charles Astruc</persName> propose aux
-                  éditions de la CUF (1956) une traduction en français des deux premiers livres des
-                     <hi rend="italic">Deipnosophistes</hi>. Cette édition restera inachevée en
-                  raison de la mort de son auteur en 1956. Il n’existe à ce jour aucune traduction
-                  française complète des <hi rend="italic">Deipnosophistes</hi>.</p>
-               <p>9. L’édition <persName ref="#Loe">Loeb</persName> (2006-2012) propose une nouvelle
-                  traduction en langue anglaise avec le texte grec en vis-à-vis.</p>
-               <p>10. Il existe enfin une édition numérique des Deipnosophistes dirigée par
-                     <persName ref="#Ber">Monica Berti</persName> de l’Université de <placeName
-                     ref="#Lei">Leipzig</placeName> et hébergée par Github :
-                  https://www.digitalathenaeus.org/ Cette édition a deux objectifs : faire
-                  l’inventaire des auteurs et des œuvres cités par <persName ref="#Ath"
-                     >Athénée</persName> et mettre en œuvre des métadonnées pour analyser et citer
-                  les réutilisations de textes dans les <hi rend="italic">Deipnosophistes</hi>.
-                  Cette édition numérique présente l’édition de <persName ref="#Kai">Georg
-                     Kaibel</persName> sous format numérique. Nous avons aussi accès à celle
-                     d’<persName ref="#Cas">Isaac Casaubon</persName>. Plusieurs outils sont mis à
-                  notre disposition, notamment :</p>
-               <p>- Un récupérateur d’URN CTS qui permet de récupérer et de citer des paragraphes,
-                  des phrases et des mots dans les <hi rend="italic">Deipnosophistes</hi> ;</p>
-               <p>- Un convertisseur de références Casaubon – Kaibel ;</p>
-               <p>- Un alignement automatique des index d’Olson, Meineke et Kaibel.</p>
-               <p>- Un index d’auteurs, de personnes et de textes à partir du travail d’Olson qui
-                  permet d’obtenir des graphiques comme celui ci-dessous. On peut par exemple voir à
-                  quels moments du texte <persName ref="#Arc">Archestrate de Géla</persName> est
-                  cité.</p>
+         <figure>
+            <graphic url="../images_tei/stemma.png"/>
+         </figure>
 
-               <p><hi rend="italic"> Langue d’<persName ref="#Arc">Archestrate</persName>
-                  </hi></p>
-               <p>Archestrate écrit dans une langue artificielle qui emprunte ses formes à trois
-                  dialectes grecs :</p>
-               <p>À l’épique (dialecte traditionnel d’Homère et d’Hésiode). Les principales
-                  caractéristiques sont les suivantes : η à la place de α après ι, ε, ρ pour les
-                  noms de la première déclinaison, datif pluriel en -ῃσι(ν), ξυν- à la place de
-                  συν-, ἤν à la place de ἐάν.</p>
-               <p>À l’attique (premier dialecte utilisé dans le théâtre athénien). Nous trouvons
-                  ainsi α long à la place de η après ι, ε, ρ, la conjonction εἶτα, et ου comme le
-                  produit de la contraction ε + ο.</p>
 
-               <p>Au dorique (dialecte parlé au temps d’Archestrate en Sicile). Nous avons trois
-                  exemples de génitifs en -α dans les fragments 34, 54 et 55, deux dans des noms de
-                  poissons et le dernier dans un nom propre : καρχαρία, αὐλωπία, Βαφύρα.</p>
+         <p>2. Un deuxième groupe est convaincu de l’indépendance de l’Épitomé par rapport au
+            Manuscrit A dont <persName ref="#Kai">G. Kaibel</persName>, <persName ref="#Pep">S.
+               Peppink</persName>et <persName ref="#Des">A.-M. Desrousseaux</persName> : </p>
+         <figure>
+            <graphic url="../images_tei/stemmab.png"/>
+         </figure>
+         <p> Dès la Renaissance, plusieurs éditions et traductions des <hi rend="italic"
+               >Deipnosophistes</hi> ont vu le jour : </p>
+         <p> 1. L’édition <hi rend="italic">princeps</hi> date de 1514. Elle est établie à
+               <placeName ref="#Ven">Venise</placeName> par le crétois <persName ref="#Mus">Marcus
+               Musurus</persName> qui travaillait pour l’imprimeur <persName ref="#Muc">Alde
+               Muce</persName>. Ce manuscrit qui se fondait sur le <hi rend="italic">Marcianus</hi>
+            disparaît dans les ateliers à la fin de l’impression, ce qui était chose courante à
+            cette époque. </p>
+         <p> 2. A Lyon, <persName ref="#Dal">Jacques Daléchamp</persName> fournit une traduction en
+            latin des<hi rend="italic">Deipnosophistes</hi> en 1583 sans accompagnement du texte. </p>
+         <p> 3. <persName ref="#Cas">Isaac Casaubon</persName> choisit la traduction de <persName
+               ref="#Dal">Daléchamp</persName> pour l’intégrer à son édition de 1598. A noter que la
+            pagination de <persName ref="#Cas">Casaubon</persName> avec ses divisions de dix lignes
+            en dix lignes est fréquemment utilisée depuis le XIXème siècle. </p>
+         <p> 4. Entre 1789 et 1791, l’œuvre est pour la première fois traduite en français par
+               <persName ref="#Lef">Lefebvre de Villebrune</persName>. </p>
+
+         <p> 5. Au XIXème siècle, paraissent successivement trois nouvelles éditions du texte, celle
+            du strasbourgeois <persName ref="#Sch">Jean Schweighäuser</persName> (1801-1807), de
+               <persName ref="#Din">Wilhelm Dindorf</persName> (1827) et d’<persName ref="#Mei"
+               >August Meineke</persName> (1858-1859).</p>
+         <p> 6. Puis l’édition de <persName ref="#Kai">Georg Kaibel</persName> (1887-1890) devient
+            l’édition de référence. </p>
+         <p> 7. L’édition <persName ref="#Gul">Gulick</persName> (1927-1941) propose une nouvelle
+            traduction en anglais. </p>
+         <p> 8. <persName ref="#Des">Alexandre-Marie Desrousseaux</persName> avec la collaboration
+            de <persName ref="#Ast">Charles Astruc</persName> propose aux éditions de la CUF (1956)
+            une traduction en français des deux premiers livres des <hi rend="italic"
+               >Deipnosophistes</hi>. Cette édition restera inachevée en raison de la mort de son
+            auteur en 1956. Il n’existe à ce jour aucune traduction française complète des <hi
+               rend="italic">Deipnosophistes</hi>.</p>
+         <p> 9. L’édition <persName ref="#Loe">Loeb</persName> (2006-2012) propose une nouvelle
+            traduction en langue anglaise avec le texte grec en vis-à-vis. </p>
+         <p> 10. Il existe enfin une édition numérique des Deipnosophistes dirigée par <persName
+               ref="#Ber">Monica Berti</persName> de l’Université de <placeName ref="#Lei"
+               >Leipzig</placeName> et hébergée par Github : https://www.digitalathenaeus.org/ Cette
+            édition a deux objectifs : faire l’inventaire des auteurs et des œuvres cités par
+               <persName ref="#Ath">Athénée</persName> et mettre en œuvre des métadonnées pour
+            analyser et citer les réutilisations de textes dans les <hi rend="italic"
+               >Deipnosophistes</hi>. Cette édition numérique présente l’édition de <persName
+               ref="#Kai">Georg Kaibel</persName> sous format numérique. Nous avons aussi accès à
+            celle d’<persName ref="#Cas">Isaac Casaubon</persName>. Plusieurs outils sont mis à
+            notre disposition, notamment : </p>
+         <p> - Un récupérateur d’URN CTS qui permet de récupérer et de citer des paragraphes, des
+            phrases et des mots dans les <hi rend="italic">Deipnosophistes</hi> ; </p>
+         <p> - Un convertisseur de références Casaubon – Kaibel ; </p>
+         <p> - Un alignement automatique des index d’Olson, Meineke et Kaibel. </p>
+         <p> - Un index d’auteurs, de personnes et de textes à partir du travail d’Olson qui permet
+            d’obtenir des graphiques comme celui ci-dessous. On peut par exemple voir à quels
+            moments du texte <persName ref="#Arc">Archestrate de Géla</persName> est cité.</p>
+
+         <figure>
+            <graphic url="../images_tei/monicaberti.png"/>
+         </figure>
+              
+ <p><hi rend="italic"> Langue d’<persName ref="#Arc">Archestrate</persName><note>Les
+                  informations de cette partie sont issues d'Olson et Sens (2000)</note>
+            </hi>
+         </p>
+         <p>
+            <persName ref="#Arc">Archestrate</persName> écrit dans une langue artificielle qui
+            emprunte ses formes à trois dialectes grecs : </p>
+         <p>À l’épique (dialecte traditionnel d’<persName ref="#Hom">Homère</persName> et
+               d’<persName ref="#Hés">Hésiode</persName>). Les principales caractéristiques sont les
+            suivantes : η à la place de α après ι, ε, ρ pour les noms de la première déclinaison,
+            datif pluriel en -ῃσι(ν), ξυν- à la place de συν-, ἤν à la place de ἐάν. </p>
+         <p>À l’attique (premier dialecte utilisé dans le théâtre athénien). Nous trouvons ainsi α
+            long à la place de η après ι, ε, ρ, la conjonction εἶτα, et ου comme le produit de la
+            contraction ε + ο. </p>
+
+         <p>Au dorique (dialecte parlé au temps d’<persName ref="#Arc">Archestrate</persName> en
+            Sicile). Nous avons trois exemples de génitifs en -α dans les fragments 34, 54 et 55,
+            deux dans des noms de poissons et le dernier dans un nom propre : καρχαρία, αὐλωπία,
+            Βαφύρα. </p>
+
+         <p><hi rend="italic"> Édition des fragments</hi></p>
+         <p>Pour la présente édition, nous avons choisi de présenter le poème d’<persName ref="#Arc"
+               >Archestrate de Géla</persName> suivant l'ordre dans lequel il apparaît dans le texte
+               d’<persName ref="#Ath">Athénée de Naucratis</persName> afin de garantir une approche
+            authentique du poème. En cela, nous nous plaçons dans la continuité du travail
+            qu’effectua <persName ref="#Rib">W. Ribbeck</persName> en 1877 lors de son édition des
+            fragments d’<persName ref="#Arc">Archestrate de Géla</persName>. De fait, nous nous
+            démarquons de l’ordre de l’édition de <persName ref="#Bra">P. Brandt</persName> qui
+            choisit en 1888 d’éditer les fragments d’<persName ref="#Arc">Archestrate</persName> en
+            essayant de restaurer l’ordre originel du poème en suivant l’ordre d’un repas, depuis
+            l’apéritif jusqu'à la fin du σύμποσιον. Cet ordre fut repris par <persName ref="#Llo">H.
+               Lloyd-Jones</persName> et <persName ref="#Par">P. Parsons</persName> en 1983, par
+               <persName ref="#Mon">O. Montanari</persName> en 1983, par <persName ref="#Wil">J.
+               Wilkins</persName> et <persName ref="#Hil">S. Hill</persName> en 1994, et, enfin, par
+               <persName ref="#Ols">S. D. Olson</persName> et <persName ref="#Sen">A.
+               Sens</persName> en 2000. </p>
+         <p> Par ailleurs, nous avons utilisé la numérotation d’<persName ref="#Cas">I.
+               Casaubon</persName> qui permet de se repérer dans le texte d’<persName ref="#Ath"
+               >Athénée</persName>. Elle apparaît entre parenthèses à côté du numéro de chaque
+            fragment. </p>
+         <p>Enfin, le texte grec et sa traduction française sont suivis d’un commentaire des
+            passages introduisant les fragments afin de montrer le regard que porte <persName
+               ref="#Ath">Athénée de Naucratis</persName> sur <persName ref="#Arc">Archestrate de
+               Géla</persName>.</p>
+
+              
 
                <p><hi rend="italic"> Édition des fragments</hi></p>
                <p>Pour la présente édition, nous avons choisi de présenter le poème d’Archestrate de
