@@ -131,6 +131,106 @@
                <person xml:id="Ber">
                   <persName>Monica Berti</persName>
                </person>
+                 <person xml:id="Hom">
+                  <persName>Homère</persName>
+               </person>
+               <person xml:id="Hés">
+                  <persName>Hésiode</persName>
+               </person>
+               <person xml:id="Rib">
+                  <persName>Wilhelm Ribbeck</persName>
+               </person>
+               <person xml:id="Bra">
+                  <persName>Paul Brandt</persName>
+               </person>
+               <person xml:id="Llo">
+                  <persName>Hugh Lloyd Jones</persName>
+               </person>
+               <person xml:id="Par">
+                  <persName>Peter Parsons</persName>
+               </person>
+               <person xml:id="Mon">
+                  <persName>O. Montanari</persName>
+               </person>
+               <person xml:id="Wil">
+                  <persName>John Wilkins</persName>
+               </person>
+               <person xml:id="Hil">
+                  <persName>Shaun Hill</persName>
+               </person>
+               <person xml:id="Ols">
+                  <persName>S. Douglas Olson</persName>
+               </person>
+               <person xml:id="Sen">
+                  <persName>Alexander Sens</persName>
+               </person>
+               <person xml:id="Dio">
+                  <persName>Diodore</persName>
+               </person>
+               <person xml:id="Pyt">
+                  <persName>Pythagore</persName>
+               </person>
+               <person xml:id="Diod">
+                  <persName>Diodore d'Aspendos</persName>
+               </person>
+               <person xml:id="Atl">
+                  <persName>Atlas</persName>
+               </person>
+               <person xml:id="Plé">
+                  <persName>Pléioné</persName>
+               </person>
+               <person xml:id="Pléi">
+                  <persName>Pléiades</persName>
+               </person>
+               <person xml:id="Mith">
+                  <persName>Mithécos de Syracuse</persName>
+               </person>
+               <person xml:id="Héra">
+                  <persName>Héra de Syracuse</persName>
+               </person>
+               <person xml:id="Chrys">
+                  <persName>Chrysippe de Soles</persName>
+               </person>
+               <person xml:id="Lyn">
+                  <persName>Lyncée de Samos</persName>
+               </person>
+               <person xml:id="Call">
+                  <persName>Callimaque de Cyrène</persName>
+               </person>
+               <person xml:id="Clé">
+                  <persName>Cléarque de Soles</persName>
+               </person>
+               <person xml:id="Lyc">
+                  <persName>Lycophron de Chalcis</persName>
+               </person>
+               <person xml:id="Déd">
+                  <persName>Dédale</persName>
+               </person>
+               <person xml:id="Ica">
+                  <persName>Icare</persName>
+               </person>
+               <person xml:id="Pla">
+                  <persName>Platon</persName>
+               </person>
+               <person xml:id="Epi">
+                  <persName>Épicure</persName>
+               </person>
+               <person xml:id="Mat">
+                  <persName>Matron de Pitane</persName>
+               </person>
+               <person xml:id="Thé">
+                  <persName>Théognis</persName>
+               </person>
+               <person xml:id="Sar">
+                  <persName>Sardanapale</persName>
+               </person>
+               <person xml:id="Daph">
+                  <persName>Daphnis l'Éphésien</persName>
+               </person>
+               <person xml:id="Ulp">
+                  <persName>Ulpien</persName>
+               </person>
+
             </listPerson>
 
             <listPlace>
