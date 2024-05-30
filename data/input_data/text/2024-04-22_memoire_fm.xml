@@ -766,13 +766,16 @@
 
       <body>
 
-         <pb n="1" facs="data/images/single/archestratus_ms_a_fr_1_fake_test_no_file.png"
-            xml:id="archestratus_ms_a_fr_1_fake_test_no_file"/>
+         <pb n="1" facs="data/images/single/archestratus_ms_a_fr_1.png"
+            xml:id="archestratus_ms_a_fr_1"/>
          <div n="1" type="fragment">
             <head>Fragment 1 (Ath. 1. 4d-e)</head>
             <l>ἱστορίης ἐπίδειγμα ποιούμενος Ἑλλάδι πάση</l>
             <p>φησί</p>
          </div>
+
+
+          
          <pb n="2" facs="data/images/single/archestratus_ms_a_fr_2.png"
             xml:id="archestratus_ms_a_fr_2"/>
          <div n="2" type="fragment">
