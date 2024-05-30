@@ -27,10 +27,25 @@
             <listWit>
                <witness xml:id="A">Manuscrit A, Venise, Bibliothèque Marciana, gr. Z. 447 (coll.
                   0820)</witness>
+               <witness xml:id="Aac">Manuscrit A avant correction</witness>
+               <witness xml:id="Apc">Manuscrit A après correction</witness>
+               <witness xml:id="ACE7.288">Manuscrits A C E livre 7.288</witness>
+               <witness xml:id="A7.288">Manuscrit A livre 7.288</witness>
+               <witness xml:id="CE7.288">Manuscrits C E livre 7.288</witness>
+               <witness xml:id="CE7.330">Manuscrits C E livre 7.330</witness>
+               <witness xml:id="ACE7.330">Manuscrits A C E livre 7.330</witness>
+               <witness xml:id="A7.330">Manuscrit A livre 7.330</witness>
                <witness xml:id="C">Manuscrit C, Paris, Bibliothèque Nationale de France, supplément
                   grec 841</witness>
                <witness xml:id="E">Manuscrit E, Florence, Bibliothèque Laurentienne, Plutei LX.
                   2</witness>
+               <witness xml:id="Valckenaer">Correction de Valckenaer</witness>
+               <witness xml:id="Canter">Correction de Canter</witness>
+               <witness xml:id="Schneider">Correction de Schneider</witness>
+               <witness xml:id="ACE7.278">Manuscrits A C E livre 7.278</witness>
+               <witness xml:id="CE7.278">Manuscrits C E livre 7.278</witness>
+               <witness xml:id="A7.278">Manuscrit A livre 7.278</witness>
+               <witness xml:id="ACE7.313-314">Manuscrits A C E livre 7.313 et 7.314</witness>
             </listWit>
 
             <listPerson>
@@ -766,120 +781,180 @@
 
       <body>
 
-         <pb n="1" facs="data/images/single/archestratus_ms_a_fr_1.png"
+         <pb n="1" facs="data/images/single/archestratus_ms_a_fr_1_fake_test_no_file.png"
             xml:id="archestratus_ms_a_fr_1"/>
          <div n="1" type="fragment">
             <head>Fragment 1 (Ath. 1. 4d-e)</head>
             <l>ἱστορίης ἐπίδειγμα ποιούμενος Ἑλλάδι πάση</l>
             <p>φησί</p>
          </div>
-
-
-          
-         <pb n="2" facs="data/images/single/archestratus_ms_a_fr_2.png"
-            xml:id="archestratus_ms_a_fr_2"/>
+         <pb n="2" facs="data/images/single/archestratus_ms_a_fr_60.png"
+            xml:id="archestratus_ms_a_fr_60"/>
          <div n="2" type="fragment">
             <head>Fragment 2 (Ath. 1. 4d-e)</head>
-            <l n="1">πρὸς δὲ μιᾷ πάντας δειπνεῖν ἁβρόδαιτι τραπέζῃ.</l>
-            <l n="2">έ̓στωσαν δʹ ἢ τρεῖς ἢ τέσσαρες οἱ ξυνάπαντες</l>
+            <l n="1">πρὸς δὲ μιᾶι πάντας δειπνεῖν ἁβρόδαιτι τραπέζηι. </l>
+            <l n="2">έ̓στωσαν δʹ ἢ τρεῖς ἢ <app><lem wit="#E">τέσσαρες</lem><rdg wit="#C">ἕξ</rdg></app> οἱ ξυνάπαντες</l>
             <l n="3">ἢ τῶν πέντε γε μὴ πλείους· ἤδη γὰρ ἂν εἴη</l>
-            <l n="4">μισθοφόρων ἁρπαξιβίων σκηνὴ στρατιωτῶν.</l>
-         </div>
-         <pb n="3" facs="data/images/single/archestratus_ms_a_fr_3.png"
-            xml:id="archestratus_ms_a_fr_3"/>
+            <l n="4">μισθοφόρων ἁρπαξιβίων σκηνὴ στρατιωτῶν.</l><note>habent CE</note>
+      </div>
+         <pb n="3" facs="data/images/single/archestratus_ms_a_fr_15.png"
+            xml:id="archestratus_ms_a_fr_15"/>
          <div n="3" type="fragment">
-            <p>Fragment 3 (Ath. 1. 29a-d) εἶθʹ ὁπόταν πλήρωμαι Διὸς Σωτῆρος ἕλησθε, / ἤδη χρὴ
-               γεραόν, πολιὸν σφόδρα κρατοφοροῦτα / οἶνον, ὑγρὴν χαίτην λευκῷ πεπυκασμένον ἄνθει /
-               πίνειν, ἐκ Λέσβου περικύμονος ἐκγεγαῶτα. / τὸν δʹ ἀπὸ Φοινίκης ἱερᾶς τὸν Βύβλιον
-               αἰνῶ, / οὐ μέντοι κείνῳ γε παρεξισῶ αὐτον. ἂν γὰρ / ἐξαίφνας αὐτοῦ γεύσῃ μὴ πρόσθεν
-               ἐθισθείς, / εὐώδης μέν σοι δόξει τοῦ Λεσβίου εἶναι / μᾶλλον, ἔχει γὰρ τοῦτο χρόνου
-               διὰ μῆκος ἄπλατον·/ πινόμενος δʹ ἥσσων πολλῷ. κεῖνος δὲ δοκήσει / οὐκ οἴνῳ σοι ἔχειν
-               ὅμοιον γέρας, ἀμβροσίᾳ δέ. / εἰ δέ τι σκώπτουσιν ἀλαζονοχαυνοφλύαροι / ὡς ἅδιστος ἔφυ
-               πάντων Φοινίκιος οἶνος, / οὐ προσέχω τὸν νοῦν αὐτοῖς. / ἔστι δὲ καὶ Θάσιος πίνειν
-               γενναῖος, ἐὰν ᾖ / πολλαῖς πρεσβεύων ἐτέρου οἲνου περικαλλέσιν ὤραις. / οἶδα δὲ κἀξ
-               ἄλλων πόλεων βοτρυοσταγῆ ἔρνη / εἰπεῖν αἰνῆσαί τε καὶ οὔ με λέληθʹ ὀνομῆναι. / ἀλλ’
-               οὐθὲν τἆλλʹ ἐστὶν ἁπλῶς πρὸς Λέσβιον οἶνον. / ἀλλά τινες χαίρουσιν ἐπαινοῦντες τὰ
-               παρʹ αὐτοῖς.</p>
+            <head>Fragment 3 (Ath. 1. 29a-d) )</head>
+            <l n="1">εἶθʹ ὁπόταν πλήρωμαι Διὸς Σωτῆρος ἕλησθε,</l>
+            <l n="2">ἤδη χρὴ γεραόν, πολιὸν σφόδρα κρατοφοροῦτα</l>
+            <l n="3"><app><lem wit="#C">οἶνον, ὑγρὴν χαίτην λευκῷ πεπυκασμένον ἄνθει</l>
+            <l n="4">πίνειν, ἐκ Λέσβου περικύμονος ἐκγεγαῶτα.</lem><rdg wit="#E"><lacunaStart/></rdg></app></l>
+            <l n="5">τὸν <app><lem wit="#C">τʹ</lem><rdg wit="#E">δ᾽</rdg></app> ἀπὸ Φοινίκης ἱερᾶς τὸν Βύβλιον αἰνῶ,</lb>
+            <l n="6">οὐ μέντοι κείνωι γε παρεξισῶ αὐτον. ἂν γὰρ</l>
+            <l n="7">ἐξαίφνας αὐτοῦ γεύσηι μὴ πρόσθεν ἐθισθείς,</l> 
+            <l n="8">εὐώδης μέν σοι δόξει τοῦ Λεσβίου εἶναι</l>
+            <l n="9">μᾶλλον, ἔχει γὰρ τοῦτο χρόνου διὰ μῆκος ἄπλατον·</l>
+            <l n="10">πινόμενος δʹ ἥσσων πολλῶι. κεῖνος δὲ δοκήσει</l>
+            <l n="11">οὐκ οἴνωι σοι ἔχειν ὅμοιον γέρας, ἀμβροσίαι δέ.</l>
+            <l n="12">εἰ δέ <app><lem wit="#C">τινες</lem><rdg wit="#E">τι</rdg></app> σκώπτουσιν ἀλαζονοχαυνοφλύαροι</l>
+            <l n="13">ὡς ἅδιστος ἔφυ πάντων Φοινίκιος οἶνος,</l>
+            <l n="14">οὐ προσέχω τὸν νοῦν αὐτοῖς.</l>
+            <l n="15">ἔστι δὲ καὶ Θάσιος πίνειν γενναῖος,ἐὰν ἦι</l>
+            <l n="16">πολλαῖς πρεσβεύων ἑτέρου οἴνου <app><lem wit="#E">περικαλλέσιν</lem><rdg wit="#C">περικαλέσιν</rdg></app> ὥραις.</l> 
+            <l n="17">οἶδα δὲ κἀξ ἄλλων <app><lem wit="#E">πόλεων</lem><rdg wit="#C">πολλὴν</rdg></app> βοτρυοσταγῆ ἔρνη</l>
+            <l n="18">εἰπεῖν αἰνῆσαί τε καὶ οὔ με λέληθʹ ὀνομῆναι.</l>
+            <l n="19"> ἀλλ’ οὐθὲν <app><lem wit="#E">τἆλλ'</lem><rdg wit="#C">τἆλλος</rdg></app> ἐστὶν ἁπλῶς πρὸς Λέσβιον οἶνον.</l> 
+            <l n="20">ἀλλά τινες χαίρουσιν ἐπαινοῦντες τὰ παρ' αὑτοῖς.</l><note>habent CE</note></p>
          </div>
          <pb n="4" facs="data/images/single/archestratus_ms_a_fr_4_fake_test_no_file.png"
             xml:id="archestratus_ms_a_fr_4_fake_test_no_file"/>
          <div n="4" type="fragment">
-            <p>Fragment 4 (Ath. 2. 56c) ῥυσαὶ δρυπεπεῖς παρακείσθωσάν σοι ἐλαῖαι</p>
+            <head>Fragment 4 (Ath. 2. 56c)</head>
+             <l n="1">ῥυσαὶ δρυπεπεῖς παρακείσθωσάν σοι ἐλαῖαι</l><note>habent
+                  CE</note></p>
          </div>
-         <pb n="5" facs="data/images/single/archestratus_ms_a_fr_5.png"
+             <pb n="5" facs="data/images/single/archestratus_ms_a_fr_5.png"
             xml:id="archestratus_ms_a_fr_5"/>
          <div n="5" type="fragment">
-            <p>Fragment 5 (Ath. 2. 64a) βολβῶν καὶ καυλῶν χαίρειν λέγω ὀξυβάφοισι / τ’ ταῖς παροψίσι
-               πάσῃσι.</p>
+            <head>Fragment 5 (Ath. 2. 64a)</head> 
+             <l n="1">βολβῶν καὶ καυλῶν χαίρειν λέγω ὀξυβάφοισι</l> 
+             <l n="2">τ’ ταῖς <app><lem wit="#C">ἄλλαις παροψίσι πάσηισι</lem><rdg wit="#E">ἄλλαισι παροψίσι πάσαις</rdg>
+               </app>.</l><note>habent CE</note></p>
          </div>
-         <pb n="6" facs="data/images/single/archestratus_ms_a_fr_6.png"
-            xml:id="archestratus_ms_a_fr_6"/>
-         <div n="6" type="fragment">
-            <p>Fragment 6 (Ath. 3. 92d-e) τοὺς μῦς θʹ ἡ Αἶνος ἔχει μεγάλους, ὄστρεια δʹ Ἄβυδος, /
-               τὰς ἄρκτους Πάριον, τοὺς δὲ κτένας ἡ Μιτυλίνη, / πλείστους δʹ Ἀμβρακία παρέχει καὶ
-               ἄπλατα μετʹ αὐτῶν. / Μεσσήνῃ δὲ πελωριαδαῖς στενοπορθμίδᾳ κόγχας / κὰν Ἐφέσῳ λήψει
-               τὰς λείας οὔτι πονηράς. / τήθεα Καλχηδών, τοὺς κήρυκας δʹ ἐπιτρίψαι / ὁ Ζεὺς τούς τε
-               θαλασσογενεῖς καὶ τοὺς ἀγοραίους, / πλὴν ἑνὸς ἀνθρώπου, κεῖνος δέ μοί ἐστιν ἑταῖρος /
-               Λέσβον ἐπιστάφυλον ναίων, Ἀγάθων δὲ καλεῖται.</p>
-         </div>
-         <pb n="7" facs="data/images/single/archestratus_ms_a_fr_7.png"
+         <pb n="6" facs="data/images/single/archestratus_ms_a_fr_7.png"
             xml:id="archestratus_ms_a_fr_7"/>
+         <div n="6" type="fragment">
+            <head>Fragment 6 (Ath. 3. 92d-e)</head> 
+            <l n="1">τοὺς <app><lem wit="#A">μῦς θʹ ἡ Αἶνος</lem><rdg wit="#C #E">μῦς ἡ Αἶνος</rdg></app> ἔχει μεγάλους, ὄστρεια δʹ Ἄβυδος, 
+            <l n="2"><app><lem wit="#A">τὰς ἄρκτους</lem><rdg wit="#C #E">τοὺς ἄρκτους</rdg></app> Πάριον, τοὺς δὲ κτένας ἡ <app><lem wit="#A">Μιτυλίνη</lem><rdg wit="#C #E">Μιτυλήνη</rdg></app>,
+            <l n="3"><app><lem wit="#A">πλείστους</lem><rdg wit="#C">πλεῖστα</rdg></app> δʹ Ἀμβρακία παρέχει <app><lem wit="#A">καὶ ἄπλατα μετʹ αὐτῶν. / 
+            <l n="4">Μεσσήνηι δὲ <app><lem wit="#Aac">πελωριαδαῖς</lem><rdg wit="#Apc">πελωριάδες</rdg></app> στενοπορθμίδαι κόγχας</lem><rdg wit="#C #E"><lacunaStart/></rdg></app>
+            <l n="5"/><app><lem wit="#A">κὰν</lem><rdg wit="#C #E">ἐν</rdg></app> Ἐφέσωι <app><lem wit="#A">λήψει</lem><rdg wit="#C #E">λήψη</rdg></app> τὰς λείας οὔτι πονηράς. 
+            <l n="6"><app><lem wit="#A">τήθεα Καλχηδών</lem><rdg wit="#C #E"><lacunaStart/></rdg></app>, τοὺς κήρυκας δʹ ἐπιτρίψαι</l>
+            <l ="7">ὁ Ζεὺς τούς τε θαλασσογενεῖς καὶ τοὺς ἀγοραίους,</l>
+            <l ="8">πλὴν ἑνὸς ἀνθρώπου, κεῖνος δέ μοί <app><lem wit="#A #C">ἐστιν</lem><rdg wit="#E">ἐστι</rdg></app>ἑταῖρος</l> 
+            <l ="9">Λέσβον ἐπιστάφυλον ναίων, Ἀγάθων δὲ καλεῖται.</l><note>habent
+                  ACE</note></p>
+         </div>
+         <pb n="7" facs="data/images/single/archestratus_ms_a_fr_60.png"
+            xml:id="archestratus_ms_a_fr_60"/>
          <div n="7" type="fragment">
-            <p>Fragment 7 (Ath. 3. 101b-e) ἀεὶ δὲ στεφάνοισι κάρα παρὰ δαῖτα πυκάζου / παντοδαποῖς,
-               οἷς ἄν γαίας πέδον ὄλβιον ἀνθῇ, / καὶ στακτοῖσι μύροις ἀγαθοῖς χαίτην θεράπευε, / καὶ
-               σμύρναν λίβανόν τε πυρὸς μαλακὴν ἐπὶ τέφραν / βάλλε πανημέριος, Ζυρίης εὐώδεα κάρπον,
-               / ἐμπίνοντι δὲ σοι φερέτω τοιόνδε τράγημα, / γαστέρα καὶ μήτραν ἑφθὴν ὑὸς ἔν τε μίνῳ
-               / ἔν τʹ ὄξει δριμεῖ καὶ σιλφίῳ ἐμβεβαῶσαν / ὀρνίθων τε ὀπτῶν ἁπαλὸν γένος, ὡς ἂν
-               ὑπάρχῃ / ὥρη. τῶν δὲ Ζυρακοσίων τούτων ἀμέλησον, / οἳ πίνουσι μόνον βατράχων τρόπον,
-               οὐδὲν ἔδοντες. / ἀλλὰ συμπείθου κείνοις, ἃ δʹ ἐγὼ λέγω ἔσθε / βρωτά. τὰ δʹ ἄλλα γʹ
-               ἐκεῖνα τραγήματα πάντα πέφυκε / πτωχείας παράδειγμα καλῆς, ἑφθῆς τʹ ἐρέβινθοι / καὶ
-               κύαμοι καὶ μῆλα καὶ ἰσχάδες. ἀλλὰ πλακοῦντα / αἴνει Ἀθήνησιν γεγενημένον· εἰ δὲ ἄν
-               που / αὐτον ἔχῃς, ἑτέρωθι μέλι ζήτησον ἀπελθὼν / Ἀττικόν, ὡς τοῦτʹ ἔστιν ὃ ποιεῖ
-               κεῖνον ὑβριστήν. / οὕτω τοι δεῖ ζῆν τὸν ἐλεύθερον ἢ κατὰ τῆς γῆς / καὶ κατὰ τοῦ
-               βαράθρου καὶ Ταρτάρου ἐς τὸν ὄλεθρον / ἥκειν καὶ κατορωρύχθαι σταδίους
-               ἀναρίθμήτους.</p>
-         </div>
-         <pb n="8" facs="data/images/single/archestratus_ms_a_fr_8.png"
-            xml:id="archestratus_ms_a_fr_8"/>
+            <head>Fragment 7 (Ath. 3. 101b-e)</head> 
+             <l n="1">ἀεὶ δὲ στεφάνοισι κάρα παρὰ δαῖτα πυκάζου</l>
+            <l n="2">παντοδαποῖς, οἷς ἄν γαίας πέδον ὄλβιον <app><lem wit="#A #C">ἀνθῆι,</lem><rdg wit="E">ἀνθᾶ</rdg></app></l> 
+            <l n="3">καὶ στακτοῖσι μύροις ἀγαθοῖς <app><lem wit="#A">χαίτην</lem><rdg wit="#C #E">χαίταν</rdg></app> θεράπευε,</l> 
+            <l n="4">καὶ σμύρναν λίβανόν τε πυρὸς μαλακὴν ἐπὶ τέφραν</l> 
+            <l n="5">βάλλε πανημέριος, <app><lem wit="#A #Ε">Συρίης</lem><rdg wit="#C">Συρίοις</rdg></app> εὐώδεα κάρπον,</l> 
+            <l n="6"><app><lem wit="#A #E">ἐμπίνοντι</lem><rdg wit="#C">ἐμπίπτοντα</rdg>
+               </app> δὲ σοι φερέτω τοιόνδε τράγημα,</l>
+            <l n="7">γαστέρα καὶ μήτραν ἑφθὴν ὑὸς ἔν τε <app><lem wit="#C #E">κυμίνῳ</lem><rdg wit="#A">μίνωι</rdg>
+               </app></l>
+            <l n="8">ἔν τʹ ὄξει δριμεῖ καὶ σιλφίωι ἐμβεβαῶσαν</l>
+            <l n="9">ὀρνίθων τε ὀπτῶν <app><lem wit="#A">ἁπαλὸν</lem><rdg wit="#C #E"><lacunaStart/></rdg>
+               </app> γένος, <app><lem wit="#A">ὡς ἂν ὑπάρχηι</l> 
+            <l n="10">ὥρη.</lem><rdg wit="#C #E"><lacunaStart/></rdg>
+               </app> τῶν δὲ Συρακοσίων τούτων ἀμέλησον,</l>
+             <l n="11">οἳ πίνουσι μόνον βατράχων τρόπον,οὐδὲν <app><lem wit="#A">ἔδοντες</lem><rdg wit="#C #E">ἔθοντες</rdg>
+               </app>.</l>
+             <l n="12">ἀλλὰ <app><lem wit="#A">συμπείθου</lem><rdg wit="#C #E">σὺ μὴ πείθου</rdg>
+               </app> κείνοις, ἃ δʹ ἐγὼ λέγω ἔσθε</l> 
+             <l n="13">βρωτά. τὰ δʹ ἄλλα <app><lem wit="#A">γʹἐκεῖνα</lem><rdg wit="#C #E">γε κεῖνα</rdg>
+               </app> τραγήματα πάντα πέφυκε</l>
+             <l n="14">πτωχείας<app><lem wit="#A">παράδειγμα καλῆς, ἑφθῆς τʹ ἐρέβινθοι</l> 
+            <l n="15">καὶ κύαμοι καὶ μῆλα καὶ ἰσχάδες.</lem><rdg wit="#C #E">παραδείγματα.ἐρέβινθοι,κύαμοι, μῆλα, ἰσχάδες</rdg>
+               </app> ἀλλὰ πλακοῦντα</l> 
+            <l n="16">αἴνει Ἀθήνηισι γεγενημένον· εἰ δὲ ἄν που</l>
+            <l n="17">αὐτον ἔχηις, <app><lem wit="#A">ἑτέρωθι</lem><rdg wit="#C #E">ἑτέρωθε</rdg></app> μέλι ζήτησον <app>
+                  <lem wit="#A">ἀπελθὼν</l>
+            <l n="18">Ἀττικόν,</lem><rdg wit="#C #E">Ἀττικόν ἀπελθὼν</rdg></app><app><lem wit="#A">ὡς τοῦτʹ ἔστιν ὃ ποιεῖ κεῖνον ὑβριστήν.</lem><rdg wit="#C #E"><lacunaStart/></rdg></app></l>
+            <l n="19">οὕτω τοι δεῖ ζῆν τὸν ἐλεύθερον ἢ κατὰ τῆς γῆς</l>
+            <l n="20/>καὶ <app><lem wit="#A">κατὰ</lem><rdg wit="#C #E"><lacunaStart/></rdg></app> τοῦ βαράθρου καὶ Ταρτάρου <app>
+                  <lem wit="#A">ἐς</lem>
+                  <rdg wit="#C #E">εἰς</rdg>
+               </app> τὸν ὄλεθρον</l>
+             <l n="20">ἥκειν καὶ κατορωρύχθαι σταδίους ἀναρίθμήτους.</l><note>habent
+                  ACE</note>
+         </div> 
+         <pb n="8" facs="data/images/single/archestratus_ms_a_fr_25.png"
+            xml:id="archestratus_ms_a_fr_25"/>
          <div n="8" type="fragment">
-            <p>Fragment 8 (Ath. 3. 104f-5a) ἀλλὰ παρεὶς λῆρον πολὺν άστακὸν ὠνοῦ / τὸν τὰς χεῖρας
-               ἔχοντα μακρὰς ἄλλως τε βαρείας, / τοὺς δὲ πόδας μικρούς, βραδέως δʹἐπὶ γαῖαν ὀρούει.
-               / εἰσὶ δὲ πλεῖστοι μὲν πάντων ἀρετῃ τε κράπιστοι / ἐν Λιπάραις. πολλοὺς δὲ καὶ
-               Ἑλλήσποντος ἀθροίζει.</p>
+            <head>Fragment 8 (Ath. 3. 104f-5a)</head> 
+             <l n="1">ἀλλὰ παρεὶς λῆρον πολὺν άστακὸν ὠνοῦ</l>
+             <l n="2">τὸν τὰς χεῖρας ἔχοντα μακρὰς ἄλλως τε βαρείας,</l> 
+             <l n="3">τοὺς <app><lem wit="#A">δὲ</lem><rdg wit="#C #E"><lacunaStart/></rdg></app> πόδας μικρούς, βραδέως δʹἐπὶ γαῖαν ὀρούει.</l>
+             <l n="4">εἰσὶ δὲ πλεῖστοι <app><lem wit="#A">μὲν πάντων ἀρετῆι τε</lem><rdg wit="#C #E">καὶ ἀρετῆ</rdg></app> κράτιστοι</l>
+             <l n="5">ἐν Λιπάραις. πολλοὺς δὲ καὶ Ἑλλήσποντοςἀθροίζει.</l><note>habent ACE</note>
          </div>
-         <pb n="9" facs="data/images/single/archestratus_ms_a_fr_9.png"
-            xml:id="archestratus_ms_a_fr_9"/>
+<pb n="9" facs="data/images/single/archestratus_ms_a_fr_26.png"
+            xml:id="archestratus_ms_a_fr_26"/>
          <div n="9" type="fragment">
-            <p>Fragment 9 (Ath. 3. 105e) ἤν δέ ποτʹ εἰς Ἴασον Καρῶν πόλιν εἰσαφίκηαι, / καρῖδʹ
-               εὐμεγέθη λήψεις, σπανία δὲ πρίασθαι. / ἐν δὲ Μακηδονίᾳ τε καὶ Ἀμβρακίᾳ μάλα
-               πολλαί.</p>
+            <head>Fragment 9 (Ath. 3. 105e)</head> 
+            <l n="1">ἤν δέ ποτʹ εἰς Ἴασον Καρῶν πόλιν εἰσαφίκηαι,</l>
+            <l n="2">καρῖδʹ εὐμεγέθη <app><lem wit="#A">λήψεις</lem><rdg wit="#C #E">λήψη</rdg></app>, <app><lem wit="#A">σπανία</lem><rdg wit="#C #E">σπανίαν</rdg>
+               </app> δὲ πρίασθαι.</l> 
+             <l n="3">ἐν δὲ <app><lem wit="#A">Μακηδονίαι</lem><rdg wit="#C #E">Μακεδονίᾳ</rdg></app>
+               <app><lem wit="#A">τε</lem><rdg wit="#C #E">δὲ</rdg>
+               </app> καὶ Ἀμβρακίαι μάλα πολλαί.</l><note>habent ACE</note>
          </div>
-         <pb n="10" facs="data/images/single/archestratus_ms_a_fr_10.png"
-            xml:id="archestratus_ms_a_fr_10"/>
+          
+         <pb n="10" facs="data/images/single/archestratus_ms_a_fr_5.png"
+            xml:id="archestratus_ms_a_fr_5"/>
          <div n="10" type="fragment">
-            <p>Fragment 10 (Ath. 3. 111e-12b) πρῶτα μὲν οὖν δώρων μεμνήσομαι ἠυκόμοιο / Δήμητρος,
-               φίλε Μόσχε· σὺ δʹ ἐν φρεσὶ βάλλεο σῄσιν. / ἔστι γὰρ οὖν τὰ κράτιστα λαβεῖν βέλτιστά
-               τε πάντων, / εὐκάρπου κριθῆς καθαρῶς ἠσκημένα πάντα, / ἐν Λέσβῳ, κλεινῆς Ἐρέσου
-               περικύμονι μαστῷ, / λευκότερʹ αἰθερίας χιόνος. θεοὶ εἴπερ ἔδουσιν / ἄλφιτα, ἐκεῖθεν
-               ἰὼν Ἑρμῆς αὐτοῖς ἀγοράζει. / ἐστὶ δὲ κἀν Θήβαις ταῖς ἑπταπύλοις ἐπιεικῆ / κἀν Θάσῳ ἐν
-               τʹ ἄλλαις πόλεσίν τισιν, ἀλλὰ γίγαρτα / φαίνοντα πρὸς ἐκεῖνας· ἀφεὶς τὰ δʹ ἐπιστασο
-               δόξης· / στρογγυλοδίντος δὲ τετριμμένος εὖ κατὰ χεῖρα / κόλλιξ Θεσσαλικός σοι
-               ὑπαρχέτω, ὃν καλέουσι / κεῖνοι κριμματίαν, οἱ δʹ ἄλλοι χόνδρινον ἄρτον. / εἶτα τὸν ἐν
-               Τεγέαις σεμιδάλεος υἱὸν ἐπαινῶ / ἐγκρυφίαν. τὸν δʹ εἰς ἀγορὰν ποιεύμενον ἄρτον / αἱ
-               κλειναὶ παρέχουσι βροτοῖς κάλλιστον Ἀθῆναι. / ἐν δὲ φέρει σταφύλοις ̓Ερυθροῖς
-               ἐκλιβάνου ἐλθὼν / λευκὸς αβραι θάλλων ὥραις τέρψει παρὰ δεῖπνον.</p>
+            <head>Fragment 10 (Ath. 3. 111e-12b)</head>
+            <l n="1"><app><lem wit="#A">πρῶτα μὲν οὖν δώρων μεμνήσομαι ἠυκόμοιο</l> 
+            <l n="2">Δήμητρος, φίλε Μόσχε· σὺ δʹ ἐν φρεσὶ βάλλεο σηισιν.</l>          
+            <l n="3">ἔστι γὰρ οὖν τὰ κράτιστα λαβεῖν βέλτιστά τε πάντων,</l> 
+            <l n="4">εὐκάρπου κριθῆς καθαρῶς ἠσκημένα πάντα,</l>
+            <l n="5"></lem><rdg wit="#C #E"><lacunaStart/></rdg></app></l>
+            <l n="5">ἐν Λέσβωι, κλεινῆς Ἐρέσου περικύμονι μαστῶι,</l> 
+            <l n="6">λευκότερʹ αἰθερίας χιόνος. θεοὶ εἴπερ ἔδουσιν</l>
+            <l n="7">ἄλφιτα, ἐκεῖθεν ἰὼν Ἑρμῆς αὐτοῖς ἀγοράζει.</l>
+            <l n="8">ἐστὶ δὲ κἀν Θήβαις ταῖς ἑπταπύλοις ἐπιεικῆ</l> 
+            <l n="9">κἀν Θάσωι ἐν τʹ ἄλλαις <app><lem wit="#A">πόλεσίν</lem><rdg wit="#C #E">πόλεσι</rdg>
+               </app> τισιν, ἀλλὰ γίγαρτα</l> 
+            <l n="10">φαίνοντα πρὸς ἐκεῖνας· <app><lem wit="#A">ἀφεὶς τὰ δʹ ἐπιστασο δόξης</lem>
+                  <rdg wit="#C #E"><lacunaStart/></rdg></app>·</l> 
+            <l n="11">στρογγυλοδίντος δὲ τετριμμένος εὖ κατὰ χεῖρα</l> 
+            <l n="12">κόλλιξ Θεσσαλικός σοι ὑπαρχέτω, ὃν καλέουσι</l>
+            <l n="13">κεῖνοι κριμματίαν, οἱ δʹ ἄλλοι χόνδρινον ἄρτον.</l>
+            <l n="14">εἶτα τὸν ἐν Τεγέαις <app><lem wit="#A">σεμιδάλεος</lem><rdg wit="#C #E">σεμιδάλεως</rdg>
+               </app> υἱὸν ἐπαινῶ</l>
+            <l n="15">ἐγκρυφίαν. τὸν δʹ εἰς ἀγορὰν ποιεύμενον ἄρτον</l>
+            <l n="16">αἱ κλειναὶ παρέχουσι βροτοῖς κάλλιστον Ἀθῆναι.</l> 
+            <l n="17"><app><lem wit="#A">ἐν δὲ φέρει σταφύλοις Ἐρυθροῖς ἐκλιβάνου ἐλθὼν</l> 
+            <l n="18">λευκὸς αβραι θάλλων ὥραις τέρψει παρὰ δεῖπνον.</lem><rdg wit="#C #E"><lacunaStart/></rdg>
+               </app></l><note>habent ACE></note>
          </div>
-         <pb n="11" facs="data/images/single/archestratus_ms_a_fr_11.png"
-            xml:id="archestratus_ms_a_fr_11"/>
+         <pb n="11" facs="data/images/single/archestratus_ms_a_fr_6.png"
+            xml:id="archestratus_ms_a_fr_6"/>
          <div n="11" type="fragment">
-            <p>Fragment 11 (Ath. 3. 112b-c) ἔστω δʹἤ σοι ἀνὲρ Φοῖνιξ ἣ Λυδὸς ἐν οἴκῳ / ὄστις
-               ἐπιστήμων ἔσται σοι ὁ κατʹἦμαρ / σίτοιο cf. Casaubon παντοίας ἰδέας τεύκων ὡς ἄν σὺ
-               κελεύης.</p>
+            <head>Fragment 11 (Ath. 3. 112b-c)</head>
+            <l n="1">ἔστω δʹἤ σοι ἀνὲρ Φοῖνιξ ἣ Λυδὸς ἐν οἴκωι,</l>
+            <l n="2">ὄστις ἐπιστήμων ἔσται σοι ὁ κατʹἦμαρ</l> 
+            <l n="3">παντοίας ἰδέας τεύκων ὡς ἂν σὺ κελεύης.</l><note>habet A</note></p>
          </div>
          <pb n="12" facs="data/images/single/archestratus_ms_a_fr_12.png"
             xml:id="archestratus_ms_a_fr_12"/>
          <div n="12" type="fragment">
-            <p>Fragment 12 (Ath. 3. 116f-17b) καὶ Ζικελοῦ θύννου τέμαχος / τμηθὲν ὅτʹ ἐν βίκοισι
+            <head>Fragment 12 (Ath. 3. 116f-17b)</head> 
+             
+            καὶ Ζικελοῦ θύννου τέμαχος / τμηθὲν ὅτʹ ἐν βίκοισι
                ταριχεύσθαι ἔμελλεν. / σαπέρδῃ δʹ ἐνέπω κλαίειν μακρά, Μοντικῷ ὄψῳ, / καὶ τοῖς κεῖνον
                ἐπαινοῦσιν· παῦροι γὰρ ἴσασιν / ἀνθρώπων, ὅ τι φαῦλον ἔφυ καὶ ἀκιδνὸν κενεόν τε
                ἔδεσμα . / ἀλλὰ τριταῖον ἔχειν σκόμβρον πρὶν ἐς ἁλμυρὸν ὕδωρ / ἐλθεῖν ἀμφορέως
